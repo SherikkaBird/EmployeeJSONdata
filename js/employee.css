@@ -1,0 +1,9 @@
+div.employee{ border-style: solid; width:600px; height:200px;
+padding: 5px; border-radius: 20px;
+box-shadow: 5px 5px grey}
+img{ width:150; float: left; clear: left; padding:10px}
+span.eName{font-weight:bold; float:left; clear:left; padding: 5px}
+span.title{font-weight:bold; padding:80px;}
+span.department{float:left; padding:2px; margin-left:19px; height:2px;}
+span.email{padding:10px; float:left;}
+p.bio{text-align:start;padding-top:40px;}
